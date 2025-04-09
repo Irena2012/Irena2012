@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Irena2012
 - 👀 I’m interested in foto
-- 🌱 I’m currently learning lashmaker
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m work learning lashmaker
+- 💞️ I’m looking to collaborate on beauty
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 
 <!---
 Irena2012/Irena2012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
